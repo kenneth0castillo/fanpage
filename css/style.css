@@ -1,7 +1,19 @@
 html {
     height: 100%;
 }
-
+.header{
+    text-align: center;
+    background-color: #ff0000;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 50px;
+}
+.navbar{
+    background-color:#000000;
+    padding: 10px;
+    text-align: center;
+    
+}
 body {
     height: 100%;
     
@@ -10,10 +22,13 @@ a {
     text-decoration: none;
 }
 
-.main {
-    height: 100%;
-}
+/*.main {*/
+/*    height: 100%;*/
+/*}*/
 .social-image{
     width: 30px;
     margin: 15px;
+}
+#img{
+    width: 100%;
 }
