@@ -41,7 +41,30 @@ a {
     background-attachment: fixed;
     background-position: center;
 }
-#footer{
+.footer{
+    text-align: center;
     display:flex;
     justify-content:center;
+}
+.gallery{
+    display: block;
+    margin:0px;
+}
+.thumbnail{
+    display:flex;
+    width:100%;
+    justify-content:center;
+    flex-direction:column;
+}
+.aboutMain{
+    display:flex;
+}
+.leftPane{
+    color:#ff0000;
+    float: left;
+    width:auto;
+}
+.rightPane{
+    float: right;
+    width:auto;
 }
