@@ -52,11 +52,15 @@ a {
     display: block;
     margin:0px;
 }
+/*.thumbnail-image{*/
+/*    display:flex;*/
+/*    width:100%;*/
+/*    justify-content:center;*/
+/*    flex-direction:column;*/
+/*}*/
 .thumbnail{
-    display:flex;
-    width:100%;
+    display: flex;
     justify-content:center;
-    flex-direction:column;
 }
 .aboutMain{
     display:flex;
